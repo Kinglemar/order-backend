@@ -1,0 +1,63 @@
+# Dependency directories
+node_modules/
+coverage/
+
+# Logs and debugging files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+#lock files
+yarn.lock
+pnpm-lock.yaml
+package-lock.json
+
+# Environment files
+.env
+
+# IDE and editor-specific files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.vscode
+
+# Dependency files
+*.d.ts
+*.map
+
+# Build output
+build/
+dist/
+out/
+
+# Logs from npm
+npm-debug.log*
+
+# Yarn
+yarn-error.log*
+
+bun.lockb
+yarn-lock.json
+qodana.yaml
+
+*.DS_Store
+
+current_ports.txt
+current_ports.bak
+.env.bak
+Dockerfile.bak
+
+
+
